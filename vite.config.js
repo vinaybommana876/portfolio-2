@@ -7,7 +7,7 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
-  base: '/Portfolio-2/', // <-- only needed if deploying to GitHub Pages
+  base: '/portfolio-2/', // <-- only needed if deploying to GitHub Pages
   resolve: {
     alias: {
       '@': '/src',

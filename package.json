@@ -1,9 +1,9 @@
 {
-  "name": "Portfolio-2",
+  "name": "portfolio-2",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://vinaybommana876.github.io/Portfolio-2",
+  "homepage": "https://vinaybommana876.github.io/portfolio-2",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
